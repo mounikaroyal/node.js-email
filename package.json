@@ -1,0 +1,30 @@
+{
+  "name": "node.js-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mounikaroyal/node.js-email.git"
+  },
+  "author": "mouniroyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mounikaroyal/node.js-email/issues"
+  },
+  "homepage": "https://github.com/mounikaroyal/node.js-email#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "filesystem": "^1.0.1",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.2.7",
+    "node-static": "^0.7.11",
+    "nodemailer": "^6.2.1",
+    "request": "^2.88.0",
+    "socket.io": "^2.2.0"
+  }
+}
