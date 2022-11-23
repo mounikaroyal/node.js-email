@@ -25,6 +25,6 @@
     "node-static": "^0.7.11",
     "nodemailer": "^6.2.1",
     "request": "^2.88.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.5.0"
   }
 }
