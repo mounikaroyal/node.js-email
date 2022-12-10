@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/mounikaroyal/node.js-email#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "filesystem": "^1.0.1",
     "fs": "0.0.1-security",
     "mongodb": "^3.2.7",
